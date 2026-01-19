@@ -1,15 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mamede Santana 👋  
 
-<!--
-**mamedesantana/mamedesantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Development Student | Tech Enthusiast | Content Writer**
 
-Here are some ideas to get you started:
+I’m a passionate **Web Development student**, driven by curiosity, creativity, and a strong desire to build meaningful digital experiences.  
+I love learning how the web works end-to-end — from clean, responsive interfaces to robust back-end systems — and sharing my journey with the tech community.
 
-- 🔭 I’m currently working on Readme
-- 🌱 I’m currently learning about GitHub
-- 👯 I’m looking to collaborate on increase my skill in GitHub
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about my day
-- 📫 How to reach me: https://github/com/mamedesantana
-- 😄 Pronouns: He/Him
--->
+
+---
+
+## 🚀 About Me  
+
+- 💻 Currently studying **Web Development**, focusing on modern and scalable technologies  
+- 🌱 Always exploring new tools, frameworks, and best practices  
+- ✍️ I enjoy writing and sharing what I learn to help other developers grow  
+- 🌍 Interested in open source, collaboration, and continuous learning  
+
+---
+
+## 🏆 Goals  
+
+- 🚀 Become a **Full Stack Web Developer**  
+- 🤝 Contribute to open-source projects  
+- 📚 Build real-world projects that solve real problems  
+
+---
+
+## 📬 Get in Touch  
+
+- 💼 Follow my journey here on **GitHub**  
+- 🌐 Let’s connect and collaborate on exciting web projects  
+
+---
+
+✨ Thanks for visiting my profile!  
+Let’s build the web, one project at a time 🚀
